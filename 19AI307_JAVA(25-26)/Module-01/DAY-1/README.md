@@ -93,7 +93,8 @@ public class Main
 
 ## OUTPUT:
 
-<img width="856" height="452" alt="image" src="https://github.com/user-attachments/assets/cecabab4-b992-41f5-bf96-7d7e3e8f2980" />
+<img width="596" height="657" alt="image" src="https://github.com/user-attachments/assets/e1c580c3-cc8c-4661-bc65-55b37fd5067a" />
 
 ## RESULT:
 Thus, the Java program to perform implicit and explicit type casting between different data types was successfully executed and the output was verified.
+
