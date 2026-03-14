@@ -93,7 +93,7 @@ public class Main {
 
 ## OUTPUT:
 
-
+![Output](output.png)
 
 ## RESULT:
 Thus, the Java program demonstrating the use of an **interface (WeatherBot) with implementing classes SunBot and RainBot to predict weather conditions based on temperature** was successfully implemented and executed.
