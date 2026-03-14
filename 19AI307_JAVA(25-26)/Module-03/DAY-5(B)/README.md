@@ -46,7 +46,7 @@ public class Main
 }
 ```
 ## OUTPUT:
-
+![Output](program_output.png)
 
 
 ## RESULT:
