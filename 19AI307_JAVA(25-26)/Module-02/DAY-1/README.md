@@ -64,7 +64,7 @@ public class Main {
 ```
 ## OUTPUT:
 
-
+![Output](output.png)
 
 ## RESULT:
 Thus, the Java program to create a **Course class with attributes code, title, and credits**, create objects, assign values using user input, and display the course details was successfully implemented and executed.
