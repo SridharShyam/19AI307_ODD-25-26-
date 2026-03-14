@@ -115,7 +115,7 @@ public class Main
 
 ## OUTPUT:
 
-
+![Program Output](output.png)
 
 ## RESULT:
 Thus, the Java program demonstrating **abstraction using an abstract class GameScore with subclasses ArcadeGame and PuzzleGame to calculate the final score** was successfully implemented and executed.
