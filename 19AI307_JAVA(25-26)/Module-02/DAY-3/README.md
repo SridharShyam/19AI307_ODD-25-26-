@@ -99,7 +99,7 @@ public class Main
 ```
 ## OUTPUT:
 
-
+![Output](output.png)
 
 ## RESULT:
 Thus, the Java program to demonstrate **access specifiers using private variables with public getter and setter methods in a Rectangle class** was successfully implemented and executed.
