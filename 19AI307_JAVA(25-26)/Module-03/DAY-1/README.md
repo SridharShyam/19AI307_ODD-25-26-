@@ -209,8 +209,6 @@ public class Main
 ```
 
 ## OUTPUT:
-
-https://github.com/SridharShyam/19AI307_ODD-25-26-/blob/main/19AI307_JAVA(25-26)/Module-03/DAY-1/Screenshot%202026-03-14%20085407.png
-
+![Program Output](output.png)
 ## RESULT:
 Thus, the Java program demonstrating **inheritance using Fuel, Petrol, and Diesel classes to calculate discounted fuel prices** was successfully implemented and executed.
