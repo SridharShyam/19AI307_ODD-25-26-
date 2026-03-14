@@ -79,7 +79,7 @@ public class Main
 ```
 ## OUTPUT:
 
-
+![Program Output](output.png)
 
 ## RESULT:
 Thus, the Java program demonstrating **polymorphism using method overloading in the Student class** was successfully implemented and executed.
