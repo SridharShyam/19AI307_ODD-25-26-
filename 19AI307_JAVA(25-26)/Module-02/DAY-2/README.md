@@ -58,7 +58,7 @@ public class Main
 ```
 ## OUTPUT:
 
-
+![Output](output.png)
 
 ## RESULT:
 Thus, the Java program to demonstrate the use of **methods for calculating and printing the area of a circle** was successfully implemented and executed.
