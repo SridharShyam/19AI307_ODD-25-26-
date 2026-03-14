@@ -64,6 +64,7 @@ public class Main {
 ```
 ## OUTPUT:
 
+![Output](output.png)
 
 ## RESULT:
 Thus, the Java program to demonstrate **variable scope and the use of a parameterized constructor in an Employee class** was successfully implemented and executed.
