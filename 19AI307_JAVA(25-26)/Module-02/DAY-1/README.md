@@ -6,16 +6,23 @@ Create a class Course with attributes code, title, credits.
 ```
 
 ## AIM:
-
+To create a class named **Course** with attributes **code**, **title**, and **credits**, create objects of the class, assign values using user input, and display the course details using Java.
 
 ## ALGORITHM :
-1.	Start the program.
-2.	Import the necessary package 'java.util'
-3.	
-
-
-
-
+1. Start the program.
+2. Import the required package `java.util.Scanner` to read input from the user.
+3. Create a class named `Course`.
+4. Declare the attributes `code`, `title`, and `credits` inside the `Course` class.
+5. Create the `Main` class containing the `main()` method.
+6. Create a `Scanner` object to read input from the user.
+7. Create the first object `c1` of the `Course` class.
+8. Read the course code, title, and credits from the user and store them in `c1`.
+9. Create the second object `c2` of the `Course` class.
+10. Read the course code, title, and credits from the user and store them in `c2`.
+11. Display the details of both courses in the format:
+    `code | title | credits`.
+12. Close the Scanner object.
+13. Stop the program.
 
 ## PROGRAM:
  ```
@@ -60,3 +67,4 @@ public class Main {
 
 
 ## RESULT:
+Thus, the Java program to create a **Course class with attributes code, title, and credits**, create objects, assign values using user input, and display the course details was successfully implemented and executed.
