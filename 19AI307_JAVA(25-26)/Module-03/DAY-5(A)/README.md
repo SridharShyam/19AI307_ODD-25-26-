@@ -63,7 +63,7 @@ public class Main {
 
 ## OUTPUT:
 
-
+![Output](program_output.png)
 
 ## RESULT:
 Thus, the Java program demonstrating the use of a **private inner class accessed through a method of the outer class** was successfully implemented and executed.
