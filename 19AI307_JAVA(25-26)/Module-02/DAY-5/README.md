@@ -64,7 +64,7 @@ public class Main {
 ```
 ## OUTPUT:
 
-
+![Output](output.png)
 
 ## RESULT:
 Thus, the Java program to demonstrate the use of **access modifiers with private variables and public methods in a Student class** was successfully implemented and executed.
