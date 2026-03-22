@@ -1,10 +1,11 @@
 # Ex.No:4(A) EXCEPTION HANDLING
 
 ## QUESTION:
+```
 You wrote a program that stores some input strings into a String array and prints each string in uppercase.
 However, you're getting a NullPointerException.
 What should you check in your array before calling .toUpperCase() on a element?
-
+```
 ## AIM:
 To develop a Java program that demonstrates **exception handling** by identifying and handling a **NullPointerException**, ensuring that a string is not null before calling the `toUpperCase()` method.
 
