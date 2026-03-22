@@ -21,7 +21,7 @@ To develop a Java program that demonstrates **exception handling** by identifyin
 10. Use a `catch` block to handle the `NullPointerException`.
 11. Display an appropriate message such as `"Null element"` when the exception occurs.
 12. Stop the program.
-13. 
+    
 ## PROGRAM:
  ```
 /*
